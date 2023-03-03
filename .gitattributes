@@ -1,2 +1,3 @@
-*.sql.sql linguist-detectable=true
+*.sql linguist-detectable=true
+*.sql linguist-language=sql
 *.pbix linguist-detectable=true
