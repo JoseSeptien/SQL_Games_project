@@ -1,4 +1,4 @@
-<!-- language: sql -->
+
 /*The purpose of this project is to determine the best year of the history of video games 
   in terms of critic_reviews and user_reviews*/
 
